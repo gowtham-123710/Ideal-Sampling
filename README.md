@@ -174,6 +174,6 @@ plt.show()
 <img width="992" height="653" alt="image" src="https://github.com/user-attachments/assets/d3683bb0-a3b8-46ed-b539-335398c1828a" />
 
 # Results
-```
+
 Thus the output waveform of ideal, Natural and Flt-top sampling were verified in google colab
-```
+
